@@ -28,5 +28,6 @@ li{
     background:#ccc;
 }
 p{
-    line-height:.4rem;
+    line-height:.3rem;
+    padding-left:.05rem;
 }
